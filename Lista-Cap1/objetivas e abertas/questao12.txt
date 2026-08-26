@@ -1,0 +1,8 @@
+a) Correto 
+b) Correto
+c) Incorreto, pois double e float são dois especificadores que não podem ser combinados na mesma declaração.
+d) Correto
+e) Correto
+f) Incorreto, pois o long só pode ser combinado com int e com double, mas não com float.
+g) Correto
+h) Correto

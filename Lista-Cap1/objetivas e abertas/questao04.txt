@@ -1,0 +1,7 @@
+O ";" depois da biblioteca stdlib.
+
+Função int main deve ser chamada com letras minusculas e a troca das posições dos parenteses com as chaves.
+
+Falta das "" na função printf.
+
+cout << endl; são de C++ e não existem em C.

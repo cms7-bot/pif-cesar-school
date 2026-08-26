@@ -1,0 +1,5 @@
+Falta importar a biblioteca stdio para funcionamento da função printf e a biblioteca stdlib para a função system().
+
+Declarar o tipo da função main.
+
+Falta a função return para confirmar que o programa funcionou corretamente.

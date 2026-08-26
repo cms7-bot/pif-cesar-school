@@ -1,0 +1,9 @@
+Saída exata do programa:
+"
+    'Primeiro programa"
+
+
+
+Explicação: Em c, '\n', '\t' e '\"' são constantes de caractere, delimitaddas
+por strings. O compilador as interpreta como um único caractere em tempo de 
+compilação.

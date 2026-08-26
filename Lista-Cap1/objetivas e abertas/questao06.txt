@@ -1,0 +1,11 @@
+Falta as bibliotecas stdio e stdlib para as funções printf e system, respectivamente.
+
+Função main sem tipo declarado.
+
+Separação das variavéis foram feitas por ;, fazendo com que apenas a variável a fosse declarada.
+
+Depois de "c=3" a linha foi encerrada com : e não com ;
+
+Uso da variável d no printf, onde ela nunca foi declarada.
+
+Falta a função return.

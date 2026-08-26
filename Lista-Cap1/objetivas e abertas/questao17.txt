@@ -1,0 +1,1 @@
+Alternativas a, b e c, mostrando que o compilador é tolerante a espaços em brancos.

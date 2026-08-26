@@ -1,0 +1,11 @@
+O programa inicia importando 2 bibliotecas, a stdio para a função de
+printf e a stdlib para a função system. Logo após, ele inicia a função 
+main declarando ela como inteiro a fim de no fim do programa ele receba
+o return 0 para confirmar que o programa finalizou corretamente.
+
+No printf a saída fica: "
+    "Primeiro programa""
+
+E após isso usa-se a função system("PAUSE") para executar um comando no
+sistema que pausa o programa e espera uma interação do usuario para continuar  
+rodando o código.

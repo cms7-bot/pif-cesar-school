@@ -1,0 +1,18 @@
+Saída a) "      
+    Bom dia! Shirley."
+
+Saída b) "Você já tomou café? 
+ "
+
+Saída c) "
+
+A solução não existe!
+Não insista."
+
+Saída d) "Duas  linhas  de  saída
+ou  uma?"
+
+Saída e) "um
+dois
+três"
+
