@@ -1,3 +1,0 @@
-a) A diferença ocorre na ordem que ocorre a incrementação. No prefixado, como o nome já diz, primeiro se incrementa e depois usa o valor atribuido já incrementado. Já no pós-fixado, primeiro usa-se o valor atribuido para após isso incrementar. Trecho A: n = 6, x = 6. Trecho B: m = 6, y = 5.
-
-B) Porque a linguagem C não define a ordem em que os argumentos são avaliados, ficando a critério do compilador. Então compiladores diferentes ou até o mesmo compilador com otimizações diferentes, podem apresentar resultados divergentes.
