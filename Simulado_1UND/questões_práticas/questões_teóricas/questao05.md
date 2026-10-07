@@ -1,3 +1,0 @@
-a) O while realiza o teste condicional no início, o que significa que se a condição for falsa logo de cara, o bloco interno terá zero execuções. Já o do-while garante pelo menos uma execução do bloco antes de testar a condição no final.
-b) O laço for é mais legível e elegante em cenários de repetição com quantidade predefinida (iterações contadas) ou quando a inicialização, a condição de parada e o incremento da variável de controle estão conceitualmente ligados e ficam melhor alocados numa única linha de cabeçalho.
-c) Constitui um erro de lógica. O compilador entende o ; como uma instrução vazia atrelada ao while. Se a condição for verdadeira, o programa entrará em um loop infinito executando o nada, sem nunca entrar no bloco de chaves abaixo para atualizar variáveis.
