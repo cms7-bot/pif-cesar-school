@@ -1,0 +1,5 @@
+a) Quando acionado dentro de um laço for ou while, o comando break encerra imediatamente a execução do laço inteiro. O fluxo de controle do programa abandona o bloco de repetição na mesma hora e salta diretamente para a primeira instrução localizada logo após a chave de fechamento do laço.
+
+b) O comando continue interrompe apenas a iteração atual, ignorando qualquer código restante dentro do bloco daquela repetição específica. Imediatamente após o acionamento do continue, o programa salta para o cabeçalho do laço e executa a expressão de incremento/atualização (a terceira expressão do for, como i++). Logo em seguida, ele avalia a expressão de teste (a segunda expressão) para decidir se a próxima iteração deve ser iniciada.
+
+c) A instrução break interrompe exclusivamente o laço interno no qual ela foi acionada. O laço externo não é afetado; o fluxo de execução simplesmente sai do laço interno, conclui o que restar da iteração atual do laço externo e procede para a próxima repetição do ciclo externo normalmente.
