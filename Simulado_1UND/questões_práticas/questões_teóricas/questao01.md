@@ -1,0 +1,3 @@
+c) Todos os pares de nomes ('valor'/'VALOR', 'peso'/'Peso', 'taxa'/'TAXA') representam identificadores totalmente distintos para o compilador.
+
+Como a linguagem C é sensível a caixa (case sensitive), letras maiúsculas e minúsculas diferenciam identificadores. A alternativa 'a' é incorreta porque apontariam para locais de memória diferentes; a 'b' está errada porque o ponto de entrada exige main totalmente em minúsculo; e a 'd' é incorreta pois esta é uma regra do compilador da linguagem, não do sistema operacional.
